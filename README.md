@@ -84,7 +84,7 @@ This game is pure HTML/CSS/JS application made to **prove the power of vanilla w
 
 Like any worthy puzzle, this project was built **one tile at a time**. Here's how it evolved:
 
-### 🧪 Stage 0: Console Beginnings – Matrix Mayhem
+### 🧪 Stage 0: Console Beginnings – Matrix
 
 It all started in the humble **JavaScript console**.
 
@@ -94,7 +94,7 @@ It all started in the humble **JavaScript console**.
 
 ---
 
-### ⚙️ Stage 1: Performance Boost – One-Dimensional Awakening
+### ⚙️ Stage 1: Performance Boost – One-Dimensional array
 
 After the basics worked, I got an itching feeling to do the next step of optimization.
 
