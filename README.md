@@ -34,8 +34,7 @@ This game is pure HTML/CSS/JS application made to **prove the power of vanilla w
 
 ## 🚀 Live Demo
 
-👉 [Play it on GitHub Pages!](#)  
-(_Link coming soon – or drop yours in here!_)
+👉 [See Demo!](https://saadlaggoun.github.io/Sliding-Tiles-Puzzle/)
 
 ---
 
