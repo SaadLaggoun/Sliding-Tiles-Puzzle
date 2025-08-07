@@ -1,4 +1,4 @@
-# 🎮 Sliding Blocks Puzzle
+# 🎮 Sliding Tiles Puzzle
 
 > A fun little proof-of-concept project that snowballed into a feature-rich, colorful, animated puzzle playground – all built with 100% **vanilla** web technologies 🍦.
 
@@ -76,8 +76,7 @@ This game is pure HTML/CSS/JS application made to **prove the power of vanilla w
 
 ## 📸 Screenshots & GIFs
 
-> Coming soon – uploading those juicy visuals soon!  
-> (_Add images like this later: `![Alt text](link-to-image)`_)
+> Coming soon – uploading those juicy visuals soon!
 
 ---
 
