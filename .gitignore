@@ -1,23 +1,6 @@
-# Node.js (remove if not using Node)
-node_modules/
-npm-debug.log
-yarn-debug.log
-yarn-error.log
-
 # Build and cache directories
-dist/
-build/
 .cache/
 .tmp/
-fonts/
-
-# Ignore font files
-*.ttf
-*.otf
-*.woff
-*.woff2
-*.eot
-*.svg
 
 # System files
 .DS_Store
