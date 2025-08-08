@@ -76,7 +76,8 @@ This game is pure HTML/CSS/JS application made to **prove the power of vanilla w
 
 ## 📸 Screenshots & GIFs
 
-> Coming soon – uploading those juicy visuals soon!
+![Welcome screen](images/welcome.gif)
+![Gameplay](images/gameplay.gif)
 
 ---
 
@@ -94,20 +95,14 @@ It all started in the humble **JavaScript console**.
 
 ---
 
-### ⚙️ Stage 1: Performance Boost – One-Dimensional array
+### 🎨 Stage 1: Interface Rises
 
-After the basics worked, I got an itching feeling to do the next step of optimization.
+After the basics worked, I got an itching feeling to built an interface upon it and wanted.
 
+-  After working with the 2D Array it was clear during the UI build that it should not be this way. It was clear to use it in the console, But there is no need for it now.
 -  The 2D matrix was replaced with a **1D array** to simplify index calculations and **boost performance**.
 -  Logic for identifying neighbor positions, blank tiles, and legal moves was reworked with clean arithmetic.
 -  The underlying game engine became leaner, faster, and ready for a UI.
-
----
-
-### 🎨 Stage 2: Interface Rises
-
-Time to say goodbye to the console!
-
 -  A **graphical interface** was introduced using HTML and CSS.
 -  The board now rendered dynamically in the DOM, with tiles that moved visually when using the arrow keys or hand gestures for touch devies.
 -  This was the first time the game truly felt interactive. No more `console.log`, just clean tiles gliding around.
@@ -115,7 +110,7 @@ Time to say goodbye to the console!
 
 ---
 
-### 🧱 Stage 3: Modularization – MVC-Like
+### 🧱 Stage 2: Modularization – MVC-Like
 
 Structure matters.
 
@@ -130,7 +125,7 @@ Structure matters.
 
 ---
 
-### 🔐 Stage 4: Authentication & UX – More Than Just a Game
+### 🔐 Stage 3: Authentication & UX – More Than Just a Game
 
 The game started becoming a **full-fledged web application**.
 
@@ -140,7 +135,7 @@ The game started becoming a **full-fledged web application**.
 
 ---
 
-### 🏁 Stage 5: Game Modes & Competition
+### 🏁 Stage 4: Game Modes & Competition
 
 -  Players could now choose between board sizes: `3x3`, `4x4`, or `5x5`.
 -  Added a **leaderboard** to track best performances by board size.
@@ -148,7 +143,7 @@ The game started becoming a **full-fledged web application**.
 
 ---
 
-### 👤 Stage 6: Profiles & Personalization
+### 👤 Stage 5: Profiles & Personalization
 
 -  Introduced a **profile view** to let players:
    -  See their past score.
@@ -157,9 +152,7 @@ The game started becoming a **full-fledged web application**.
 
 ---
 
-### 🎉 Stage 7: Polish & Delight – Confetti & Touch Magic
-
-Time to shine ✨
+### 🎉 Stage 6: Polish & Delight – Confetti & Touch Magic
 
 -  Full **support for mouse, keyboard, and touch gestures**.
 -  **Confetti animation** to celebrate victories 🎉.
@@ -180,7 +173,13 @@ From a lonely matrix in the console to a colorful, animated, and modular sliding
 
 ---
 
-> This is a proof-of-concept type of project that is a part of a big series that I use for my mentees to expirement on. I am currently mentoring a two stubborn dudes that want to enter tech. This would be the first project example and let there be many 🚀
+### Lessons taken
+
+Since the project had many development shifts. That work needed a lot of refactoring. The following stage and the previous ones were very distinguishable between each other. Many state has been moved from its original place and and some components got reconsidered and even the game engine had to adapt. This reminded my that's the most important skill a developer should hold isn't know to to build, but how to learn and refactor the existing code.
+
+> This is a proof-of-concept type of project that is a part of a big series that I use for my mentees to expirement on. I am currently mentoring two stubborn dudes that want to enter tech. This would be the first project example from a bunch to come 🚀
+
+---
 
 ## 🤝 Contributing
 
@@ -192,6 +191,11 @@ If you want to help improve this fun playground, feel free to open issues or sub
 3. Submit a pull request ✅
 
 ---
+
+## 🙏 Credits
+
+-  The Confetti effect to [@Kcreation-MTech](https://codepen.io/Kcreation-MTech)
+-  SVG icons to [SVGrepo](https://www.svgrepo.com/)
 
 ## 📜 License
 
