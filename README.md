@@ -76,8 +76,13 @@ This game is pure HTML/CSS/JS application made to **prove the power of vanilla w
 
 ## 📸 Screenshots & GIFs
 
-![Welcome screen](images/welcome.gif)
-![Gameplay](images/gameplay.gif)
+<p align="center">
+  <img src="images/welcome.gif" alt="Description" style="max-width: 400px; width: 100%;">
+</p>
+
+<p align="center">
+  <img src="images/gameplay.gif" alt="Description" style="max-width: 400px; width: 100%">
+</p>
 
 ---
 
