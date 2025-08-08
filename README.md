@@ -1,5 +1,11 @@
 # 🎮 Sliding Tiles Puzzle
 
+[![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://saadlaggoun.github.io/Sliding-Tiles-Puzzle/)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC-blue)](LICENSE)
+[![Made with](https://img.shields.io/badge/made%20with-vanilla%20js-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+![Presentation image](images/media.png)
+
 > A fun little proof-of-concept project that snowballed into a feature-rich, colorful, animated puzzle playground – all built with 100% **vanilla** web technologies 🍦.
 
 ## 🧩 What is this?
@@ -180,6 +186,13 @@ Since the project had many development shifts. That work needed a lot of refacto
 > This is a proof-of-concept type of project that is a part of a big series that I use for my mentees to expirement on. I am currently mentoring two stubborn dudes that want to enter tech. This would be the first project example from a bunch to come 🚀
 
 ---
+
+## 📈 Future Improvements
+
+-  Add proper authentication and authorization
+-  Add proper routing using hashs
+-  Create a store to manage state for better data manipulations
+-  Create the Backend for the project and omit the Local Storage approach
 
 ## 🤝 Contributing
 
