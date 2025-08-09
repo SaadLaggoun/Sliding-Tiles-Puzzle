@@ -1,8 +1,8 @@
 # 🎮 Sliding Tiles Puzzle
 
-[![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://saadlaggoun.github.io/Sliding-Tiles-Puzzle/)
-[![License: CC BY 4.0](https://img.shields.io/badge/license-CC-blue)](LICENSE)
-[![Made with](https://img.shields.io/badge/made%20with-vanilla%20js-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://saadlaggoun.github.io/Sliding-Tiles-Puzzle/) [![License: CC BY 4.0](https://img.shields.io/badge/license-CC-blue)](LICENSE) [![Made with](https://img.shields.io/badge/made%20with-vanilla%20js-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+# [Play now](https://saadlaggoun.github.io/Sliding-Tiles-Puzzle/)
 
 ![Presentation image](images/media.png)
 
